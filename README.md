@@ -5,6 +5,8 @@ A number of CSS elements were utilised while taking responsive design, colour th
 
 ## Installation
 Just download the files and run index.html
+## Alternately, VISIT it without downloading anything.
+(https://khaledelhannat.github.io/wand_landing_page/)
 
 ## Usage
 Use this template only for your own personal learning journey, It can help you practise and improve your HTML and CSS abilities. ; it cannot be used for business purposes without the owner's knowledge.
