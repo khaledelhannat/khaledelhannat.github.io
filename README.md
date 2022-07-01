@@ -22,7 +22,7 @@ Use this template only for your own personal learning journey, It can help you p
   <li>flexbox</li>
   <li>boxshadow</li>
   <li>touch-action</li>
-  <li>etc ..</li>
+  <li>etc ...</li>
 </ul>
 
 ## License
